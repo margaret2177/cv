@@ -1,0 +1,10 @@
+body{
+
+}
+.img{
+float: left;
+
+}
+.txt{
+  display: inline-block;
+  }
